@@ -1,0 +1,35 @@
+#image{
+    
+    width:50%;
+    height: auto;
+    max-width: 625px;
+    
+    display: block;
+
+}
+body{
+    height:100vh;
+    background: linear-gradient(
+        135deg,
+        #c0c2c0,
+        #b9bab9
+    );
+}
+h1 {
+    font-size: 38px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  
+h2 {
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+h3 {
+    font-size: 22px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  p {
+    font-size: 17px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
